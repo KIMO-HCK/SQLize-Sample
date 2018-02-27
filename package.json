@@ -1,0 +1,15 @@
+{
+  "name": "SQLize",
+  "version": "1.0.0",
+  "description": "App using sequelize",
+  "main": "index.js",
+  "author": "O'Brian Kim",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cuid": "^2.1.0",
+    "express": "^4.16.2",
+    "pg": "^7.4.1",
+    "sequelize": "^4.34.0"
+  }
+}
